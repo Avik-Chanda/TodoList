@@ -1,0 +1,26 @@
+.input 
+{
+    width : 100%;
+}
+
+.btn
+{
+    margin-top : 5px;
+}
+
+.add
+{
+    margin-top : 10px ;
+    border : 1px solid black ;
+    padding : 5px;
+    overflow: auto;
+}
+
+.add:hover{
+    background-color: azure;
+}
+
+.delete
+{
+    float : right ;
+}
